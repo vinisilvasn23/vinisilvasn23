@@ -4,7 +4,7 @@
 <br/><br/>
 Meu nome é Vinícius e sou um entusiasta da tecnologia apaixonado por programação e desenvolvimento...
 <br/>
-<div>📚 Desenvolvedor Web Full Stack em formação</div>
+<div>📚 Desenvolvedor Web Full Stack</div>
 <div>📚 Formado em Gestão da Tecnologia da Informação</div>
 <br/>
 <br/>
