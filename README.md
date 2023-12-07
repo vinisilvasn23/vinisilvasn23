@@ -14,7 +14,7 @@ Meu nome é Vinícius e sou um entusiasta da tecnologia apaixonado por programa�
     <br/>
   <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,css,tailwind,react,ts,nextjs,angular,nodejs,express,postgres,django,git,aws" />
+    <img src="https://skillicons.dev/icons?i=html,js,java,css,tailwind,styledcomponents,react,ts,nextjs,angular,nodejs,express,postgres,django,nestjs,prisma,wordpress,git,aws" />
   </a>
 </p>
   </div> 
