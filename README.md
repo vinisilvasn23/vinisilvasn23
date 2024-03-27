@@ -5,7 +5,7 @@
 
 - 📚 Formado em Gestão da Tecnologia da Informação
 
-- 🌱 Atualmente estou aprendendo **Java**
+- 🌱 Atualmente estou aprendendo **React Native**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://portifolio-vinisilva.vercel.app/](https://portifolio-vinisilva.vercel.app/)
 
