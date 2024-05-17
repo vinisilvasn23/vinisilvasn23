@@ -5,8 +5,6 @@
 
 - 📚 Formado em Gestão da Tecnologia da Informação
 
-- 🌱 Atualmente estou aprendendo **.Net**
-
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://portifolio-vinisilva.vercel.app/](https://portifolio-vinisilva.vercel.app/)
 
 - 📫 Contato **vini456nascimento@gmail.com**
